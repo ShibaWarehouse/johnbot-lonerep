@@ -9,9 +9,6 @@ const DisTube = require("distube").default;
 const voice = require("@discordjs/voice");
 const ffmpeg = require("ffmpeg-static");
 
-
-
-
 // create a new Discord client
 
 const client = new Client(
