@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "17": "^0.0.0",
     "@discordjs/builders": "^0.6.0",
     "@discordjs/node-pre-gyp": "^0.4.1",
     "@discordjs/rest": "^0.1.0-canary.0",
