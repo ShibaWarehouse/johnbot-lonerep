@@ -1,0 +1,2 @@
+node shard.js
+PAUSE
